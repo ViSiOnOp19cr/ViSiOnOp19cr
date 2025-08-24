@@ -70,8 +70,7 @@ Python • NumPy • Pandas • Scikit-learn • MLflow • GPT-4 Vision • Ope
 
 ### 📌 GitHub Stats
 
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViSiOnOp19cr
-&show_icons=true&theme=default)
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViSiOnOp19cr&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViSiOnOp19cr&layout=compact)
 
 ---
