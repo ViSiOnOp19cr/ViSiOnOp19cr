@@ -8,29 +8,26 @@ I'm a Computer Science and Engineering undergrad specializing in Artificial Inte
 
 ### 🔧 Tech Stack
 
+**Languages:**
+• c++ • Python • javascript • Typescript • Golang
+
 **Frontend:**  
 React.js • Next.js • Tailwind CSS • Vite
 
 **Backend:**  
-Node.js • Express.js • Next.js (API Routes) • Prisma • REST APIs
+Node.js • Express.js • Next.js (API Routes) • Prisma • REDIS • Golang
 
-**Database & Cloud:**  
-PostgreSQL • MongoDB • MySQL • Firebase • AWS (S3, EC2, EMR) • Render • Railway
+**Database ** 
+PostgreSQL • MongoDB • MySQL • Firebase 
 
 **DevOps & Tools:**  
-Docker • GitHub Actions • Git • Postman • Vercel • Railway • Prisma • PM2
+Docker • GitHub Actions • Git • Postman • Vercel • Railway • Prisma • PM2 • AWS(EC2,S3,EMR) • CI/CD
 
 **ML / AI / Data:**  
 Python • NumPy • Pandas • Scikit-learn • MLflow • GPT-4 Vision • OpenAI APIs
 
----
 
-### 💡 Currently Working On
 
-- **FarmerSaaS** — a full-stack hackathon project integrating crop disease detection (via GPT-4 Vision), commodity price forecasting, and WhatsApp AI chatbot.
-- **LeetCode Clone** — a complete CP platform for my college to boost peer learning.
-- **CyberSecurity Learning Platform** — a gamified experience with 10 levels of hands-on labs and certificate generation.
-- **AI-Enhanced Chatbots** — GPT-powered bots for real-time interaction on websites.
 
 ---
 
@@ -41,13 +38,7 @@ Python • NumPy • Pandas • Scikit-learn • MLflow • GPT-4 Vision • Ope
 - Hosting college-level coding contests like **Logic Ladder**.
 - Actively involved in organizing workshops, AI/ML events, and community building.
 
----
 
-### 🛠️ Featured Projects
-
-- 🛡️ **CyberCell with Career Coach** – Full-stack platform to learn cybersecurity via interactive labs.
-- 📊 **CryptoPulse** – A complete backend project for crypto insights using public APIs and role-based auth.
-- 🤖 **Disease Prediction App** – Assists doctors with intelligent diagnostics using AI.
 
 ---
 
