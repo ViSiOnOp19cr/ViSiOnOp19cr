@@ -54,7 +54,7 @@ Python • NumPy • Pandas • Scikit-learn • MLflow • GPT-4 Vision • Ope
 ### 📫 Let's Connect
 
 - LinkedIn: [[linkedin.com/in/chandancr](https://www.linkedin.com/in/chandancr/](https://www.linkedin.com/in/chandan-c-r-/))
-- Portfolio: [chandancr.xyz](https://chandancr.xyz) *(if live)*
+- Portfolio: [chandancr.xyz](https://chandancr.xyz) 
 - Twitter: [@chandan__cr](https://x.com/Chandancr_19)
 
 ---
