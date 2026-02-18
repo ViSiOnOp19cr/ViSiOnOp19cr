@@ -12,19 +12,17 @@ I'm a Computer Science and Engineering undergrad specializing in Artificial Inte
 • c++ • Python • javascript • Typescript • Golang
 
 **Frontend:**  
-React.js • Next.js • Tailwind CSS • Vite
+React.js  • Tailwind CSS 
 
 **Backend:**  
-Node.js • Express.js • Next.js (API Routes) • Prisma • REDIS • Golang
+Node.js • Express.js • Prisma • REDIS 
 
 **Database ** 
-PostgreSQL • MongoDB • MySQL • Firebase 
+PostgreSQL • MongoDB • MySQL 
 
 **DevOps & Tools:**  
-Docker • GitHub Actions • Git • Postman • Vercel • Railway • Prisma • PM2 • AWS(EC2,S3,EMR) • CI/CD
+Docker • GitHub Actions • Git • Postman • Vercel • PM2 • AWS(EC2,S3,EMR) • CI/CD
 
-**ML / AI / Data:**  
-Python • NumPy • Pandas • Scikit-learn • MLflow • GPT-4 Vision • OpenAI APIs
 
 
 
